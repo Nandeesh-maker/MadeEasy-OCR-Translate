@@ -1,0 +1,1 @@
+# MadeEasy-OCR-Translate
